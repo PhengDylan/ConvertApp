@@ -1,0 +1,6 @@
+c:\users\dylan pheng\documents\visual studio 2015\Projects\AppProtocole\AppProtocole\bin\Debug\AppProtocole.exe.config
+c:\users\dylan pheng\documents\visual studio 2015\Projects\AppProtocole\AppProtocole\bin\Debug\AppProtocole.exe
+c:\users\dylan pheng\documents\visual studio 2015\Projects\AppProtocole\AppProtocole\bin\Debug\AppProtocole.pdb
+c:\users\dylan pheng\documents\visual studio 2015\Projects\AppProtocole\AppProtocole\obj\Debug\Appprotocole.csprojResolveAssemblyReference.cache
+c:\users\dylan pheng\documents\visual studio 2015\Projects\AppProtocole\AppProtocole\obj\Debug\AppProtocole.exe
+c:\users\dylan pheng\documents\visual studio 2015\Projects\AppProtocole\AppProtocole\obj\Debug\AppProtocole.pdb
